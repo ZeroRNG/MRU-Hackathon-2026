@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Fried Rice",
+    "ingredients": ["rice", "egg", "carrot", "soy sauce"],
+    "minutes": 15,
+    "steps": [
+      "Cook the diced carrots in a pan with oil.",
+      "Add eggs and scramble until cooked.",
+      "Add cooked rice and soy sauce, then stir until hot."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Cheese Quesadilla",
+    "ingredients": ["tortilla", "cheese"],
+    "minutes": 10,
+    "steps": [
+      "Place cheese on half of a tortilla.",
+      "Fold the tortilla in half.",
+      "Cook in a pan until golden on both sides and cheese is melted."
+    ]
+  }
+]
